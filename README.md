@@ -23,3 +23,13 @@ Full stack AI Content Generator App with AI features to help you generate social
 - Prisma
 - Neon
 - ShadCN Charts
+---
+
+# Resources:
+## Landing page to Utalize
+
+Source Code: [https://next-saas-stripe-starter.vercel.app/](https://github.com/mickasmt/next-saas-stripe-starter)
+
+
+
+
